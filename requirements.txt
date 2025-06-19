@@ -1,0 +1,5 @@
+pandas
+numpy
+sqlite
+unittest
+mysql-connector-python
