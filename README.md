@@ -43,12 +43,6 @@ Three main tables:
 - **`books`**: Book inventory (title, author, quantity)
 - **`borrowed_books`**: Active book loans (user, book, date borrowed)
 
-## 🎯 Skills Demonstrated
-
-- **Data Science**: Database operations, data validation, real-time tracking
-- **Software Engineering**: Object-oriented design, modular code, error handling
-- **Full-Stack Development**: Streamlit frontend, Python backend, MySQL database
-- **User Experience**: Role-based interfaces for members and librarians
 
 ## 📝 Future Enhancements
 
@@ -56,7 +50,3 @@ Three main tables:
 - Book reservation system
 - Better search and filtering
 - Data analytics dashboard
-
----
-
-*Built as part of my data science portfolio to show full-stack development and database management skills.*
